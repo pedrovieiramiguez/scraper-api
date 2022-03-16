@@ -61,3 +61,8 @@ Example response
 ]
 ```
 
+# Roadmap
+* Format each field properly
+* See if it's possible to get an URL to the product page
+* Implement scraper for other supermarkets
+
